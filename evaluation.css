@@ -1,0 +1,107 @@
+.navdiv{
+    display: flex;
+
+    padding: 12px 0px;
+    margin: 0px;
+    align-items: center;
+    justify-content: space-around;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 20px 25px -5px, rgba(0, 0, 0, 0.04) 0px 10px 10px -5px;
+}
+li{
+    display:inline;
+    margin: 15px;
+   
+}
+ul{
+    text-align: right;
+
+}
+*{
+    text-decoration: none;
+    margin: 0;
+    padding:0;
+}
+a{
+    font-weight: bold;
+}
+.button{
+    color: white;
+   background-color: rgb(16,216,221);
+   height: 35px;
+   border-radius: 25px;
+   font-weight: bold;
+   margin-left: 30px;
+   padding-left: 13px;
+   padding-right:13px;
+   border-color: rgb(16,216,221);
+   border: 0cap;
+
+}
+.heading1{
+    font-weight: bold;
+    font-family: cursive;
+}
+
+.heading2{
+    font-family: cursive;
+    text-align: center;
+    padding-top:17px;
+}
+.paragraph1{
+    text-align: center;
+    margin-top: 18px;
+    font-family: cursive;
+    color: rgb(70,66,90);
+}
+.paragraph2{
+    text-align: center;
+    margin-top: 5px;
+    font-family: cursive;
+    color: rgb(70,66,90);
+}
+p{
+    font-family: cursive;
+
+}
+h{
+    font-family: cursive;
+}
+.divpart3{
+    display: flex;
+    justify-content: space-evenly;
+}
+.divpart31{
+    margin-top: 130px;
+    margin-left: 80px;
+}
+.divpart32{
+    margin-top: 50px;
+    border-radius: 80px;
+    overflow: hidden;
+}
+
+#main-container{
+    display: flex;
+    justify-content: space-around;
+    padding: 0px 80px;
+    margin-top: 50px;
+    
+    }
+    .cards{
+        text-align: center;
+        border: 1px solid rgb(200, 200, 200);
+        border-radius: 40px;
+        overflow: hidden;
+       
+    }
+    .image{
+        width: 100%;
+    }
+    .paragraph{
+                margin-top: -10px;
+            
+    }
+    .image2{
+            margin-top: -15px;
+            width: 150px;
+    }
